@@ -8,5 +8,9 @@ namespace samplewidowsapplication
 {
     class Arthimatic_oprators1
     {
+        public void Demo()
+        {
+            Console.WriteLine("Dhinakaran");
+        }
     }
 }

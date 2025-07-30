@@ -14,7 +14,9 @@ namespace samplewidowsapplication
             int b = 76;
             Console.WriteLine(b - a);
             Console.WriteLine(a + b)(modual) ;
-            
+            int d =65 ;
+            int f = 56;
+            Console.WriteLine( d + f )(d - f );
         }
     }
 }

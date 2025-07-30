@@ -10,6 +10,7 @@ namespace samplewidowsapplication
             int c = 56 - 06 -76; int d = 77 + 23 *34 ;
             Console.WriteLine(d / b);
             Console.WriteLine(c * a);
+            
         }
     }
 }

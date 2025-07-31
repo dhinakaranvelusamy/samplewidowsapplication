@@ -6,13 +6,11 @@ using System.Threading.Tasks;
 
 namespace samplewidowsapplication
 {
-    class Arthimatic_oprators1
+    class Hii
     {
-        public void Demo()
+        public void Welcome()
         {
-            Console.WriteLine("Dhinakaran");
-            Console.WriteLine("hii");
-            Console.WriteLine("hello");
+            Console.WriteLine("Welcome to learn c#");
         }
     }
 }

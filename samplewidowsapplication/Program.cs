@@ -6,10 +6,9 @@ namespace samplewidowsapplication
     {
         static void Main(string[] args)
         {
-            //arthimatic_oprators1 call = new arthimatic_oprators1();
-            //call.demo()
-            //    hii hii = new hii();
-            //    hii.welcome();
+            Arthimatic_oprators1 call = new Arthimatic_oprators1();
+            call.Demo();
+            Hii  hii = new ();
             Class1 class1 = new Class1();
             class1.show();
 

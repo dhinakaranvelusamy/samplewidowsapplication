@@ -8,6 +8,7 @@ namespace samplewidowsapplication
 {
     public class Class1
     {
+        Arthimatic_oprators1 obj = new Arthimatic_oprators1();
         public void show() 
         {
             int a = 8;
@@ -17,8 +18,8 @@ namespace samplewidowsapplication
             Console.WriteLine(b - a);
             Console.WriteLine(c * d);
             Console.WriteLine(a + b);
-           
-            
+
+            obj.Demo();
 
         }
     }

@@ -1,5 +1,5 @@
 ﻿using System;
-using Arthimaticopretors;
+
 namespace samplewidowsapplication
 {
     class Program
@@ -12,7 +12,11 @@ namespace samplewidowsapplication
             //Class1 class1 = new Class1();
             //class1.show();
 
-            new moduelobject().addition();
+            // new moduelobject().addition();
+
+            //  Console.WriteLine(3-8+5*2-3*2);
+            // new swapping().Swapping();
+            //new Hii().hello();
 
 
         }

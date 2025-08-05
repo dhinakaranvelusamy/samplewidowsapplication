@@ -12,5 +12,10 @@ namespace samplewidowsapplication
         {
             Console.WriteLine("Welcome to learn c#");
         }
+        public void hello()
+        {
+            Console.WriteLine("hello");
+            new Hii().Welcome();
+        }
     }
 }

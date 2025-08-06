@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 namespace samplewidowsapplication
 {
+     
     class swapping
     {
         public void Swapping()
@@ -21,4 +22,5 @@ namespace samplewidowsapplication
             Console.WriteLine(b);
         }
     }
+
 }

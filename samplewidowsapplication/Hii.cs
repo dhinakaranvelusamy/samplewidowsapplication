@@ -17,5 +17,12 @@ namespace samplewidowsapplication
             Console.WriteLine("hello");
             new Hii().Welcome();
         }
+        public void Hello()
+        {
+            Console.WriteLine("dinakaran");
+            Console.WriteLine("21");
+            Console.WriteLine("kovillammapatti");
+            Console.WriteLine("palani");
+        }
     }
 }

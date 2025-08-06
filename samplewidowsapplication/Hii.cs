@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace samplewidowsapplication
+namespace samplewindowsapplication
 {
     class Hii
     {
@@ -23,6 +23,13 @@ namespace samplewidowsapplication
             Console.WriteLine("21");
             Console.WriteLine("kovillammapatti");
             Console.WriteLine("palani");
+        }
+    }
+    class Hello
+    {
+        public void consoleobject()
+        {
+
         }
     }
 }

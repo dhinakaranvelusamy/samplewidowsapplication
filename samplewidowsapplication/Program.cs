@@ -14,12 +14,16 @@ namespace samplewidowsapplication
 
             // new moduelobject().addition();
 
-             //Console.WriteLine(3 - 8 +( 5 * 2) - (3 * 2));
+            //Console.WriteLine(3 - 8 +( 5 * 2) - (3 * 2));
+            // Console.WriteLine(3 - 8 + 5 * 2 - 3 * 2);
+
             //new swapping().Swapping();
-           //new Hii().hello();
-          //new Hii().Hello();
+            //new Hii().hello();
+            //new Hii().Hello();
+            new coreoprations2().section();
 
 
+        
         }
     }
 }

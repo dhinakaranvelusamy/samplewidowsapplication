@@ -20,10 +20,11 @@ namespace samplewidowsapplication
             //new swapping().Swapping();
             //new Hii().hello();
             //new Hii().Hello();
-            new coreoprations2().section();
+             //new coreoprations2().sectiond();
+            new variable2().method1();
 
 
-        
+
         }
     }
 }

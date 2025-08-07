@@ -42,12 +42,12 @@ namespace samplewidowsapplication
 
         public void sectiond()
         {
-            int a = 60;
-            int b = 64;
-            a = ++b;
-            b = a--;
-            Console.WriteLine(b = a--);
-            Console.WriteLine(a = ++b);
+            int a = 65;
+            int b = 6;
+            a = ++a;
+            b = b--;
+            Console.WriteLine(a = a--);
+            Console.WriteLine(b = b++);
 
         }
     }

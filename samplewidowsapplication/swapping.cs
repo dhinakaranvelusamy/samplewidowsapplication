@@ -15,7 +15,7 @@ namespace samplewidowsapplication
             int c = a = a + b;
             c = b = c + b;
             a = b - a;
-            a = a - c;
+            b = a - c;
 
 
             Console.WriteLine(c);
